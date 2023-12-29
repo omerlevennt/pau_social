@@ -1,0 +1,22 @@
+{
+    "App": {
+        "name": "PAU Social"
+    },
+    "onboard": {
+        "first": {
+            "title": "Support for Your University Adventure",
+            "desc": "University life is a great period for learning, developing and gaining new experiences. Are you ready ?"
+        },
+        "second": {
+            "title": "Balance Your Social Life",
+            "desc": "College life may require striking a balance between maintaining academic success and enjoying social experiences."
+        },
+        "third": {
+            "title": "Customize Your University Experience",
+            "desc": "Everyone's college experience is different. This app is designed to support your learning and development process."
+        },
+        "navigation": {
+            "startNow": "Start Now"
+        }
+    }
+}
